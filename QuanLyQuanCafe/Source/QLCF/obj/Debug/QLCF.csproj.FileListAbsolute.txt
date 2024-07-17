@@ -1,0 +1,56 @@
+D:\Visual Studio\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\Visual Studio\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\Visual Studio\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.csprojAssemblyReference.cache
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.fmDangNhap.resources
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.pdb
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.fmQuanLyBan.resources
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.fmThongTin.resources
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.fmQuanLy.resources
+D:\Visual Studio\QLCF\QLCF\obj\Debug\QLCF.fmThanhToan.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe.config
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.pdb
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmDangNhap.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLy.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThanhToan.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThongTin.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLyBan.resources
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.exe
+E:\HOC\ky 5\PRN212\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.pdb
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe.config
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.pdb
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmDangNhap.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLy.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThanhToan.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThongTin.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLyBan.resources
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.exe
+D:\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.pdb
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmDangNhap.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLy.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThanhToan.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmThongTin.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.fmQuanLyBan.resources
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.exe
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\obj\Debug\QLCF.pdb
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe.config
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.exe
+D:\data_Learn\code_C#\QuanLyQuanCafe\QuanLyQuanCafe\Source\QLCF\bin\Debug\QLCF.pdb

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|d:\\data_learn\\code_c#\\quanlyquancafe\\quanlyquancafe\\source\\qlcf\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|solutionrelative:qlcf\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|d:\\data_learn\\code_c#\\quanlyquancafe\\quanlyquancafe\\source\\qlcf\\dao\\danhmucdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|solutionrelative:qlcf\\dao\\danhmucdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|d:\\data_learn\\code_c#\\quanlyquancafe\\quanlyquancafe\\source\\qlcf\\dao\\chitiethddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|solutionrelative:qlcf\\dao\\chitiethddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|d:\\data_learn\\code_c#\\quanlyquancafe\\quanlyquancafe\\source\\qlcf\\dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0941298A-7D70-463D-A9C6-840318EC52D8}|QLCF\\QLCF.csproj|solutionrelative:qlcf\\dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLCF\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QLCF\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:22:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhMucDAO.cs",
+              "DocumentMoniker": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\DanhMucDAO.cs",
+              "RelativeDocumentMoniker": "QLCF\\DAO\\DanhMucDAO.cs",
+              "ToolTip": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\DanhMucDAO.cs",
+              "RelativeToolTip": "QLCF\\DAO\\DanhMucDAO.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:22:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietHDDAO.cs",
+              "DocumentMoniker": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\ChiTietHDDAO.cs",
+              "RelativeDocumentMoniker": "QLCF\\DAO\\ChiTietHDDAO.cs",
+              "ToolTip": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DAO\\ChiTietHDDAO.cs",
+              "RelativeToolTip": "QLCF\\DAO\\ChiTietHDDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:18:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ban.cs",
+              "DocumentMoniker": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DTO\\Ban.cs",
+              "RelativeDocumentMoniker": "QLCF\\DTO\\Ban.cs",
+              "ToolTip": "D:\\data_Learn\\code_C#\\QuanLyQuanCafe\\QuanLyQuanCafe\\Source\\QLCF\\DTO\\Ban.cs",
+              "RelativeToolTip": "QLCF\\DTO\\Ban.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:18:14.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
